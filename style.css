@@ -1,0 +1,325 @@
+.part0 {
+    background-color: #F3E3E7;
+    height: 54px;
+}
+
+.langue {
+    width: 26px;
+    height: 19px;
+
+}
+
+.texte1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 31px;
+}
+
+.langue2 {
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    ;
+    color: black;
+    margin-top: 20px;
+}
+
+.devise {
+    width: 24px;
+    height: 29px;
+}
+
+.devise2 {
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+
+.newaccount {
+    width: 25px;
+    height: 20px;
+}
+
+.newaccount2 {
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+
+.account {
+    width: 25px;
+    height: 25px;
+}
+
+.account2 {
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+
+.part1 {
+    color: black;
+    height: 130px;
+    background-color: white;
+}
+
+.logo {
+    width: 190px;
+    height: 114px;
+}
+
+.panier {
+    font-size: 36px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menuheader {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    color: rgb(249, 244, 244);
+    padding-top: 15px;
+    height: 78px;
+    background-color: rgb(200, 36, 61);
+}
+
+.sep {
+    font-weight: lighter;
+    color: #E13C64;
+    margin-top: 5px;
+}
+
+.menu1 {
+    margin-top: 5px;
+    color: white;
+    margin:25px;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    height: 118px;
+    padding-top: 40px;
+    color: rgb(249, 244, 244);
+    background-color: rgb(150, 32, 63);
+}
+
+h3 {
+    margin-bottom: 58px;
+    margin-top: 122px;
+}
+h4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold; 
+    background-color: rgb(150, 32, 63);
+    color: white;
+    height: 60px;
+    padding-top:20px;
+}
+.part2 {
+    height: 685px;
+}
+
+.texte2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    /* padding-top: 38px;*/
+}
+
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    /* padding-top: 56px;*/
+}
+
+.prix {
+    color: rgb(130, 33, 54);
+    font-size: 55px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 0px;
+}
+
+del {
+    font-size: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+.product {
+    padding-top: 72px;
+    padding-right: 75px;
+    width: 100%;
+}
+
+.tbn {
+    cursor: pointer;
+    vertical-align: middle;
+    position: relative;
+    text-decoration: none;
+    font-size: 31px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(200, 36, 61);
+    border-style: none;
+    width: 244px;
+    height: 70px;
+    margin-top: 0px;
+    color: white;
+}
+
+#tbn1 {
+    cursor: pointer;
+    vertical-align: middle;
+    position: relative;
+    text-decoration: none;
+    font-size: 31px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(200, 36, 61);
+    border-style: none;
+    width: 244px;
+    height: 56px;
+    margin-top: 0px;
+    color: white;
+    align-content: center;
+    margin-bottom:30px;
+}
+
+.logoPaiement {
+    width: 100px;
+    height: 60px;
+}
+
+.logoSocial {
+    width: 62px;
+    height: 62px;
+    margin-right:20px;
+    margin-top:25px;
+}
+
+.inputName {
+    background-color: #E7E5E6;
+    font-size: 33px;
+    font-family: Source Sans Pro;
+    margin-bottom: 31px;
+    margin-left: 49px;
+    margin-right: 49px;
+    width: 90%;
+    height: 67px;
+    margin-top: 58px;
+}
+
+.inputMail {
+    background-color: #E7E5E6;
+    font-size: 33px;
+    font-family: Source Sans Pro;
+    margin-bottom: 31px;
+    margin-left: 49px;
+    width: 90%;
+    height: 67px;
+}
+
+.inputMessage {
+    background-color: #E7E5E6;
+    font-size: 33px;
+    font-family: Source Sans Pro;
+    margin-bottom: 31px;
+    margin-bottom: 27px;
+    margin-left: 49px;
+    width: 90%;
+    height: 264px;
+}
+
+.contactLogo {
+    margin-right: 30px;
+    width: 60px;
+    height: 60px;
+}
+
+.img {
+    width: 100%;
+}
+
+.paragraphe1 {
+    margin-top: 77px;
+    line-height: 1em;
+}
+
+.paragraphe2 {
+    line-height: 1em;
+}
+
+.formTitle {
+    margin-top: 51px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Source Sans Pro;
+}
+
+.contactPart1 {
+    font-family: Source Sans Pro;
+    font-size: 31px;
+}
+
+.footer {
+    color: white;
+    margin-top: 62px;
+}
+
+.footerPart1 {
+    background-color: #C4003F;
+}
+
+.footerPart2 {
+    background-color: #930042;
+}
+
+.partNotreSelection {
+    margin-bottom: 104px;
+    margin-left: 54px;
+}
+
+.fieldsetForm {
+    background-color: #F1F1F1;
+}
+.navbar-dark{
+    background-color:#C4003F;
+}
+.nav-link{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 15px;
+    
+    
+    }
+    
+.cfooter{
+    margin-bottom: 40px;
+    margin-right: 17px;
+    }
+    
+.copyright{
+    margin-top:10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    }
+.part1mobile{
+    background-image: url(pdt_03.png);
+    background-size: 65%;
+    height: 500px;
+    width: 1500px;
+    background-repeat: no-repeat;
+}
+paragraphebis{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 15px; 
+}
+h5{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
+    }
